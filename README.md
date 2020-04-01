@@ -25,7 +25,8 @@ __Strengths__
 * Head voice rất connected và project
 * Có thể hát legato tốt ở quãng trung, cao và head voice
 * Biết sử dụng chesty mix lẫn heady mix để phù hợp với bài hát
-* Breath support thường đầy đặn, breath control tốt<br>
+* Breath support thường đầy đặn, breath control tốt
+<br>***<br>
 __Weaknesses__
 * Gần như luôn bị low larynx từ G3 trở xuống
 * Mixed voice bị strain từ E5
@@ -46,6 +47,7 @@ IV) OVERALL ASSESSMENT
 V) BEST PERFORMANCE
 ```
 Top 5 bản live chất lượng của Võ Hạ Trâm:
+{@youtube: https://www.youtube.com/watch?v=3ZhGdCwAEnM}
 [Eternal Flame](https://youtu.be/3ZhGdCwAEnM),
 [Chợt Như Giấc Mơ](https://www.youtube.com/watch?v=VKSFGxVljak),
 [Gọi Tên Ngày Mới](https://www.youtube.com/watch?v=9Ss4ShWSaDA),
