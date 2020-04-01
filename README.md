@@ -33,8 +33,7 @@ __Weaknesses__
 * Kỹ năng agility chưa phát triển nhiều
 * Có thể bị mất support ở quãng cao trong supported range khi thêm dynamic
 * Hiếm khi tạo được head resonance ở head voice
-* Cho thấy nhiều dấu hiệu của tension khi hát head voice từ F#5 trở lên
-<br>
+* Cho thấy nhiều dấu hiệu của tension khi hát head voice từ F#5 trở lên.
 ```sh
 III) OVERALL ANALYSIS
 ```
