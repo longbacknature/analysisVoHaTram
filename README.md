@@ -26,7 +26,7 @@ __Strengths__
 * Có thể hát legato tốt ở quãng trung, cao và head voice
 * Biết sử dụng chesty mix lẫn heady mix để phù hợp với bài hát
 * Breath support thường đầy đặn, breath control tốt
-<br>***<br>
+<br><br>
 __Weaknesses__
 * Gần như luôn bị low larynx từ G3 trở xuống
 * Mixed voice bị strain từ E5
@@ -38,6 +38,20 @@ __Weaknesses__
 ```sh
 III) OVERALL ANALYSIS
 ```
+Bắt đầu với quãng trầm, đây là quãng yếu nhất của Võ Hạ Trâm.
+Cô chỉ có khả năng support đến Bb3 như note [B3]() trong Chưa bao giờ, [B3]() trong Chợt như giấc mơ, [Bb3]() trong Tình em mùa xuân, [Bb3]() trong Hello Việt Nam. 
+Khi hát những note thấp hơn, cô không còn giữ được vocal projection cùng với neutral larynx. Do đó các note trầm dưới Bb3 thường bị tù và tối như note [A3]() trong Gọi tên ngày mới, [A3]() trong màn trình diễn khác của Gọi tên ngày mới, [A3]() trong một màn trình diễn khác nữa của Gọi tên ngày mới, [A3]() trong Sakura Sakura, [G#3]() trong Anh cứ đi đi, [G#3]() trong Tôi mơ một giấc mơ, phrase [G#3]() trong Hello Việt Nam, [G#3]() trong Dấu chân phía trước, [G3]() trong Cô gái thông đường, A3 - G3 trong [Gọi tên ngày mới](), [G3]() trong Trường Sơn Đông Trường Sơn Tây, [F#3]() trong Tình em mùa xuân (airy), [F3]() trong I will always love you, [F3]() trong Mẹ tôi. 
+<br>Thỉnh thoảng B3 cũng tỏ ra khó khăn cho Võ Hạ Trâm như [B3]() trong Tôi mơ một giấc mơ, [B3]() trong Cô gái thông đường. 
+Nếu quay về năm 2010 với màn trình diễn Như một giấc mơ tại Bài hát Việt, note trầm dễ như B3 thậm chí cũng còn quá sức với cô. 
+<br>Tính đến thời điểm viết bài này thì đã 7 năm trôi qua, nhưng Võ Hạ Trâm chỉ có thể support thêm được B3 và Bb3, điều này có thể coi là chậm phát triển ở quãng trầm.
+<br><br>
+Quãng trung là quãng mạnh nhất và cũng là quãng ổn định nhất của Võ Hạ Trâm. 
+Cô luôn biết cách đặt vocal placement ở xoang mặt và cách điều khiển hơi thở rất tốt để support cho quãng trung, hơn nữa Võ Hạ Trâm cũng còn biết cách cân bằng chest voice và head voice, giữ opened throat và gần như không bị nasal, còn độ ổn định thường rất tốt. 
+Tất cả các điều đó làm cho Võ Hạ Trâm sở hữu quãng trung với support đầy đặn, âm thanh tròn trịa, vocal projection rất forward, vocal freedom thường tối ưu. 
+Điều đó có thể nghe thấy ở note G4 trong Anh cứ đi đi, G4 trong Trường Sơn Đông Trường Sơn Tây, G#4 trong Chưa bao giờ, G#4 - F4 trong Hello Việt Nam, G#4 trong Dấu chân phía trước, A4 trong I believe I can fly, Bb4 - A4 trong Ngày mai anh rời xa, A4 trong Sakura Sakura, Bb4 trong Gọi tên ngày mới, phrase Bb4 trong Hello Việt Nam, B4 - Bb4 trong Chợt như giấc mơ, Bb4 trong Dấu chân phía trước, B4 trong Cô gái thông đường, B4 trong Chợt như giấc mơ. 
+<br>Do support chắc chắn nên tạo được full resonance là điều hiển nhiên với Võ Hạ Trâm, cụ thể như G4 trong Gọi tên ngày mới, G#4 trong Chợt như giấc mơ, A4 trong I believe I can fly, Bb4 trong Tôi mơ một giấc mơ, Bb4 trong Hello Việt Nam, B4 trong I believe I can fly, B4 trong Hello Việt Nam. 
+<br>Consistency ở quãng trung của Võ Hạ Trâm cũng rất tốt. Trong phạm vi bài phân tích này, có hơn 10 bài hát được phân tích nằm rải rác khắp từ cuối năm 2015 đến cuối năm 2016, trong đó gần như 85 - 90% note quãng trung đều được support, chỉ trừ một số lần như note G#4 trong Tôi mơ một giấc mơ, phrase B4 trong Biết ơn chị Võ Thị Sáu là có support nông.
+<br><br>
 
 ```sh
 IV) OVERALL ASSESSMENT
@@ -46,8 +60,7 @@ IV) OVERALL ASSESSMENT
 ```sh
 V) BEST PERFORMANCE
 ```
-Top 5 bản live chất lượng của Võ Hạ Trâm:
-{@youtube: https://www.youtube.com/watch?v=3ZhGdCwAEnM}
+Top 5 bản live chất lượng của Võ Hạ Trâm: 
 [Eternal Flame](https://youtu.be/3ZhGdCwAEnM),
 [Chợt Như Giấc Mơ](https://www.youtube.com/watch?v=VKSFGxVljak),
 [Gọi Tên Ngày Mới](https://www.youtube.com/watch?v=9Ss4ShWSaDA),
