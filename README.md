@@ -1,16 +1,10 @@
 # Võ Hạ Trâm's Vocal Analysis
 * Voice type: Soprano
-<br>
 * Vocal range: [D3](https://youtu.be/pyUokg-fqFo?t=26) - [C6](https://youtu.be/C8F9fyEnqM8?t=201) (2 octaves 5 notes)
-<br>
 * Supported range: A3 - D5
-<br>
 * Supported range (có head voice): A3 - F5
-<br>
 * Lowest/Highest supported note: [G3](https://youtu.be/o0ETrdzy4Eo?t=56) (low chest) / [E5](https://youtu.be/cDa7Vqfvpvg?t=196) (mixed) / [F#5](https://youtu.be/ubF51XAoFc0?t=257) (head voice)
-<br>
 * Highest resonant belt: [Eb5](https://youtu.be/sINVMi0hBa8?t=206)
-<br>
 * Highest mixed note: G5
 ```sh
 I) INTRODUCTION
